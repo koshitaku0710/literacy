@@ -1,4 +1,4 @@
-p {color: green;}
-  foo { color: green; }
+p {color: red;}
+  p.foo { color: green; }
   p#bar { color: blue; }
   
